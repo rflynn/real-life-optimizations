@@ -1,0 +1,17 @@
+
+get_coffee(machine, cup, coffee):
+	# Coffee-fetching-related optimizations
+
+	# use a larger cup to reduce round-trips to the kitchen
+	# bonus: use of a ceramic coffee mug makes single, attractive people
+	# think you care about the environment
+
+	# re-order operations to save time and eliminate redunancies
+	if you can:
+		pour ½+½ into cup _as_ coffee is brewed
+			saves time by parallelizing previously serial task
+			no post-brew stirring required
+	else:
+		pour ½+½ into cup before brewing
+			no post-brew stirring required
+
